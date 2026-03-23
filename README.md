@@ -7,23 +7,6 @@
 
 
 
- <h3>🧰 Tech Stack</h3>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,aws,azure,git,github,linux,vscode&theme=dark" />
-  </p>
-
-  <p>
-    MERN • Docker • AWS • Azure • Power BI • Data Analytics • CI/CD
-  </p>
-
-</div>
-
-<br/>
-
-<div align="center" style="border-radius: 15px; padding: 20px; border: 1px solid #30363d; width: 80%; margin: auto;">
-
-
 
 >
 
